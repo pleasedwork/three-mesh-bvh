@@ -62,3 +62,4 @@ typings/
 
 example/dev-bundle
 .parcel-cache
+yarn.lock
